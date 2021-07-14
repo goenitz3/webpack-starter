@@ -1,5 +1,11 @@
-# Webpack configurado
+# Webpack starter
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Este es elm proyecto base para crear aplicaciones utilizando Webpack
 
-Pero esto lo veremos en la siguiente sección
+### Notas:
+
+* Recuerde reconstruir los módulos del node: ```npm install```
+
+* Para construir el Build:``` npm run build```
+
+
